@@ -4,7 +4,7 @@
 
 - 🏫 I’m currently completing a course in Data Science [@AdaTech](https://ada.tech/)
 
-- 🎓 Bachelor's Degree in Mathematics and finishing a Master's Degree in same area  
+- 🎓 Bachelor's Degree in Mathematics and finishing a Master's Degree in the same area  
 
 - 🧐 Enthusiast of Data-Driven Problem Solving.
 
@@ -20,7 +20,7 @@
 
 - Tech: Python programming, SQL, database management, programming logic, object-oriented programming, statistics, machine learning, data analysis, data visualization, power BI.
 
-<h4 align="left">Feel free to connect with me on linkedin: <a href="https://linkedin.com/in/fernando-brancher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-brancher" height="18" width="25" /></a> </h4>
+<h4 align="left">Feel free to connect with me on [Linkedin.](https://www.linkedin.com/in/fernando-brancher/) </h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
