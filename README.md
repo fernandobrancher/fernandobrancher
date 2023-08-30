@@ -2,16 +2,16 @@
 
 <h5 align="left">Mathematician passionate about data, looking for opportunities in Data (data science, data analysis, BI ...)</h5>
 
-- 🏫 I’m currently completing a course in Data Science [@AdaTech](https://ada.tech/)
-- 🎓 Bachelor's Degree in Mathematics and finishing a Master's Degree in the same area  
+- 🏫 Just finished a Data Science course [@AdaTech](https://ada.tech/)
+- 🎓 Bachelor's and a Master's Degree in Mathematics  
 - 🧐 Enthusiast of Data-Driven Problem Solving.
 - 📑 Always studying, seeking improvement and growth.
 - 📉 Massive experience with Mathematical Modeling.
 - ✏️ I love drawing, especially Urban Sketching.
 <h3 align="left">Previous experiences:</h3>
 
-- Teaching: Math teacher for over five years and volunteer English teacher in Bucharest, Romania.
-- Tech: Python programming, SQL, database management, programming logic, object-oriented programming, statistics, machine learning, data analysis, data visualization, power BI.
+- Teaching: Math teacher for over six years and volunteer English teacher in Bucharest, Romania.
+- Tech: Python programming, SQL, database management, programming logic, object-oriented programming, statistics, machine learning, data analysis, data visualization, Power BI.
 
 <h4 align="left">Let's connect! </h4> 
 
